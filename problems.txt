@@ -1,0 +1,4 @@
+the title was not very specific
+changed the header class to a header tag instead
+changed the main content area to a article tag
+added an Id to the search image optimization so the href can target it 
