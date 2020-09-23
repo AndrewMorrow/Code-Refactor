@@ -12,3 +12,9 @@ changed the div to the aside tag
 changed the div to sidebar tags for the sidebar content sections
 changed div to footer tag
 added alt tags to all of the images
+
+link to github pages
+https://andrewmorrow.github.io/Code-Refactor/
+
+
+<img src="assets/images/horiseonScreenshot.png" >
