@@ -1,4 +1,4 @@
-# homework_1
+# Code-Refactor
 This is a repository for homework_1 of UCF coding Bootcamp
     problems found
 the title was not very specific
