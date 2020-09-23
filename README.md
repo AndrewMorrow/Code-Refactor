@@ -9,7 +9,7 @@ changed the div to a nav tag
 changed div to a main for the main content
 changed div to section tags for each content section
 changed the div to the aside tag
-changed the div to sidebar tags for the sidebar content sections
+changed the tags inside aside to div for the sidebar content sections
 changed div to footer tag
 added alt tags to all of the images
 
